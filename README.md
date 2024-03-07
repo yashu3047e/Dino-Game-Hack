@@ -20,4 +20,4 @@ Runner.instance_.setSpeed(opt)
 Runner.prototype.gameOver = original 
 
 
-Thankyou and have a nice day 
+# Thankyou and have a nice day 
