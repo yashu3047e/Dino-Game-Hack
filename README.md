@@ -21,3 +21,7 @@ Runner.prototype.gameOver = original
 
 
 # Thankyou and have a nice day 
+# developer : Yash Pandey 
+
+
+# 
